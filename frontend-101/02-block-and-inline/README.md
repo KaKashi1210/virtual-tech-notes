@@ -4,5 +4,8 @@ Contribute notes based on [this](https://www.youtube.com/watch?v=ZYbajSqMrN4&lis
 <hr>
 
 ## **Block Level Elements** ##
-  A **Block**-Level element always starts on a new line, and it occupies the entire horizontal space of its parent element (container), and vertical space equal to the height of its contents, thereby creating a "block".
- 
+  A **Block**-Level element always starts on a new line, and it occupies the entire horizontal space of its parent element (container), and vertical space equal to the height of     its contents, thereby creating a "block".
+ <br><br>
+ Examples of Block-level Elements are -><br><br>
+ 1. <code> &lt;address&gt;&lt;/address&gt; </code> : used for storing address, usually changes the font.
+ 2. 
